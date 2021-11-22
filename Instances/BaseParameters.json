@@ -1,0 +1,30 @@
+{
+    "EnergyModel": {
+        "NumberRotors": 8,
+        "DiameterRotorInM": 0.432,
+        "MassFrameInKG": 10,
+        "MassBatteryInKG": 6,
+        "DragFrame": 1.49,
+        "DragBattery": 1.0,
+        "DragPackage": 2.2,
+        "ProjAreaFrameInSM": 0.224,
+        "ProjAreaBatteryInSM": 0.015,
+        "ProjAreaPackageInSM": 0.0929,
+        "PowerEfficiency": 0.7,
+        "Gravity": 9.81,
+        "DensityAir": 1.225
+    },
+    "Costs": {
+        "FuelPerKM": 0.16,
+        "WagePerH": 20,
+        "PowerPerKJ": 0.025
+    },
+    "General": {
+        "SafetyCoefficient": 0.2,
+        "DoD": 0.8,
+        "NominalEnergyInKJ": 3516.48,
+        "BatteryCRate": 1,
+        "LaunchTimeInS": 60,
+        "MaxWorkingTimeInS": 28800
+    }
+}

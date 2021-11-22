@@ -1,0 +1,3173 @@
+{
+    "Name": "SF_20_1",
+    "Nodes": [
+        {
+            "ID": "0",
+            "Name": "UPS Customer Center",
+            "Lat": "-96.767153",
+            "Lon": "43.575996",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "0",
+            "DroneServiceAllowed": false,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "34425",
+                    "TimeTruckInS": "2198",
+                    "DistanceDroneInM": "26899"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "29664",
+                    "TimeTruckInS": "2021",
+                    "DistanceDroneInM": "21790"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "33039",
+                    "TimeTruckInS": "2078",
+                    "DistanceDroneInM": "27102"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "24393",
+                    "TimeTruckInS": "1456",
+                    "DistanceDroneInM": "20893"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "21449",
+                    "TimeTruckInS": "1506",
+                    "DistanceDroneInM": "14588"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "39153",
+                    "TimeTruckInS": "2273",
+                    "DistanceDroneInM": "29692"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "27545",
+                    "TimeTruckInS": "1678",
+                    "DistanceDroneInM": "24091"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "30319",
+                    "TimeTruckInS": "1632",
+                    "DistanceDroneInM": "27013"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "30183",
+                    "TimeTruckInS": "2059",
+                    "DistanceDroneInM": "22202"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "28806",
+                    "TimeTruckInS": "2003",
+                    "DistanceDroneInM": "20469"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "47096",
+                    "TimeTruckInS": "3233",
+                    "DistanceDroneInM": "36217"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "25268",
+                    "TimeTruckInS": "1733",
+                    "DistanceDroneInM": "17675"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "25075",
+                    "TimeTruckInS": "1538",
+                    "DistanceDroneInM": "18265"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "58264",
+                    "TimeTruckInS": "3798",
+                    "DistanceDroneInM": "40721"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "51527",
+                    "TimeTruckInS": "3149",
+                    "DistanceDroneInM": "36588"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "49670",
+                    "TimeTruckInS": "3193",
+                    "DistanceDroneInM": "37316"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "42892",
+                    "TimeTruckInS": "2789",
+                    "DistanceDroneInM": "30495"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "38120",
+                    "TimeTruckInS": "2226",
+                    "DistanceDroneInM": "27964"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "26062",
+                    "TimeTruckInS": "1834",
+                    "DistanceDroneInM": "18379"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "40217",
+                    "TimeTruckInS": "2470",
+                    "DistanceDroneInM": "31745"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                }
+            ]
+        },
+        {
+            "ID": "1",
+            "Name": "Customer 83",
+            "Lat": "-97.062145",
+            "Lon": "43.68872",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "2.62",
+            "DroneServiceAllowed": false,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "34400",
+                    "TimeTruckInS": "2197",
+                    "DistanceDroneInM": "26899"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "16620",
+                    "TimeTruckInS": "1207",
+                    "DistanceDroneInM": "11635"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "1385",
+                    "TimeTruckInS": "120",
+                    "DistanceDroneInM": "988"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "29568",
+                    "TimeTruckInS": "2150",
+                    "DistanceDroneInM": "21652"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "20119",
+                    "TimeTruckInS": "1626",
+                    "DistanceDroneInM": "14208"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "28256",
+                    "TimeTruckInS": "1905",
+                    "DistanceDroneInM": "19203"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "32741",
+                    "TimeTruckInS": "2257",
+                    "DistanceDroneInM": "23162"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "36870",
+                    "TimeTruckInS": "2520",
+                    "DistanceDroneInM": "25246"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "17139",
+                    "TimeTruckInS": "1244",
+                    "DistanceDroneInM": "11864"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "23700",
+                    "TimeTruckInS": "1754",
+                    "DistanceDroneInM": "17297"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "13895",
+                    "TimeTruckInS": "1182",
+                    "DistanceDroneInM": "10154"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "20162",
+                    "TimeTruckInS": "1484",
+                    "DistanceDroneInM": "16074"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "28646",
+                    "TimeTruckInS": "2194",
+                    "DistanceDroneInM": "22540"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "25063",
+                    "TimeTruckInS": "1747",
+                    "DistanceDroneInM": "18051"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "18473",
+                    "TimeTruckInS": "1165",
+                    "DistanceDroneInM": "16208"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "16469",
+                    "TimeTruckInS": "1141",
+                    "DistanceDroneInM": "13149"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "17289",
+                    "TimeTruckInS": "1138",
+                    "DistanceDroneInM": "12282"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "28635",
+                    "TimeTruckInS": "2073",
+                    "DistanceDroneInM": "19379"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "20956",
+                    "TimeTruckInS": "1585",
+                    "DistanceDroneInM": "16257"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "33005",
+                    "TimeTruckInS": "2375",
+                    "DistanceDroneInM": "22694"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "34400",
+                    "TimeTruckInS": "2197",
+                    "DistanceDroneInM": "26899"
+                }
+            ]
+        },
+        {
+            "ID": "2",
+            "Name": "Customer 334",
+            "Lat": "-96.93073",
+            "Lon": "43.732063",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "1.92",
+            "DroneServiceAllowed": false,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "29638",
+                    "TimeTruckInS": "2020",
+                    "DistanceDroneInM": "21790"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "16620",
+                    "TimeTruckInS": "1207",
+                    "DistanceDroneInM": "11635"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "16781",
+                    "TimeTruckInS": "1180",
+                    "DistanceDroneInM": "12523"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "12728",
+                    "TimeTruckInS": "1371",
+                    "DistanceDroneInM": "10044"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "9902",
+                    "TimeTruckInS": "880",
+                    "DistanceDroneInM": "7326"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "11642",
+                    "TimeTruckInS": "857",
+                    "DistanceDroneInM": "10140"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "16128",
+                    "TimeTruckInS": "1168",
+                    "DistanceDroneInM": "11609"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "20256",
+                    "TimeTruckInS": "1472",
+                    "DistanceDroneInM": "13945"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "519",
+                    "TimeTruckInS": "37",
+                    "DistanceDroneInM": "519"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "7084",
+                    "TimeTruckInS": "777",
+                    "DistanceDroneInM": "5699"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "26065",
+                    "TimeTruckInS": "2048",
+                    "DistanceDroneInM": "16774"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "6719",
+                    "TimeTruckInS": "732",
+                    "DistanceDroneInM": "5396"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "18428",
+                    "TimeTruckInS": "1448",
+                    "DistanceDroneInM": "11259"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "30723",
+                    "TimeTruckInS": "2261",
+                    "DistanceDroneInM": "19090"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "20794",
+                    "TimeTruckInS": "1497",
+                    "DistanceDroneInM": "14806"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "22129",
+                    "TimeTruckInS": "1655",
+                    "DistanceDroneInM": "16361"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "12277",
+                    "TimeTruckInS": "884",
+                    "DistanceDroneInM": "8724"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "12022",
+                    "TimeTruckInS": "984",
+                    "DistanceDroneInM": "9357"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "5981",
+                    "TimeTruckInS": "726",
+                    "DistanceDroneInM": "5224"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "16389",
+                    "TimeTruckInS": "1347",
+                    "DistanceDroneInM": "13405"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "29638",
+                    "TimeTruckInS": "2020",
+                    "DistanceDroneInM": "21790"
+                }
+            ]
+        },
+        {
+            "ID": "3",
+            "Name": "Customer 79",
+            "Lat": "-97.069769",
+            "Lon": "43.681761",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "2.99",
+            "DroneServiceAllowed": false,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "33014",
+                    "TimeTruckInS": "2077",
+                    "DistanceDroneInM": "27102"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "1385",
+                    "TimeTruckInS": "120",
+                    "DistanceDroneInM": "988"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "16781",
+                    "TimeTruckInS": "1180",
+                    "DistanceDroneInM": "12523"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "29729",
+                    "TimeTruckInS": "2123",
+                    "DistanceDroneInM": "22516"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "20281",
+                    "TimeTruckInS": "1599",
+                    "DistanceDroneInM": "14756"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "28418",
+                    "TimeTruckInS": "1878",
+                    "DistanceDroneInM": "20191"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "32903",
+                    "TimeTruckInS": "2230",
+                    "DistanceDroneInM": "24079"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "37032",
+                    "TimeTruckInS": "2493",
+                    "DistanceDroneInM": "26193"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "17301",
+                    "TimeTruckInS": "1217",
+                    "DistanceDroneInM": "12767"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "23862",
+                    "TimeTruckInS": "1727",
+                    "DistanceDroneInM": "18163"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "14057",
+                    "TimeTruckInS": "1155",
+                    "DistanceDroneInM": "10478"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "20323",
+                    "TimeTruckInS": "1457",
+                    "DistanceDroneInM": "16844"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "28807",
+                    "TimeTruckInS": "2167",
+                    "DistanceDroneInM": "23337"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "25225",
+                    "TimeTruckInS": "1720",
+                    "DistanceDroneInM": "18706"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "18634",
+                    "TimeTruckInS": "1138",
+                    "DistanceDroneInM": "17029"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "16630",
+                    "TimeTruckInS": "1114",
+                    "DistanceDroneInM": "13734"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "17451",
+                    "TimeTruckInS": "1111",
+                    "DistanceDroneInM": "13235"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "28797",
+                    "TimeTruckInS": "2046",
+                    "DistanceDroneInM": "20360"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "21118",
+                    "TimeTruckInS": "1558",
+                    "DistanceDroneInM": "17054"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "33167",
+                    "TimeTruckInS": "2348",
+                    "DistanceDroneInM": "23682"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "33014",
+                    "TimeTruckInS": "2077",
+                    "DistanceDroneInM": "27102"
+                }
+            ]
+        },
+        {
+            "ID": "4",
+            "Name": "Customer 621",
+            "Lat": "-96.812654",
+            "Lon": "43.761116",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "1.08",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "24135",
+                    "TimeTruckInS": "1462",
+                    "DistanceDroneInM": "20893"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "29568",
+                    "TimeTruckInS": "2150",
+                    "DistanceDroneInM": "21652"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "12728",
+                    "TimeTruckInS": "1371",
+                    "DistanceDroneInM": "10044"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "29729",
+                    "TimeTruckInS": "2123",
+                    "DistanceDroneInM": "22516"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "15877",
+                    "TimeTruckInS": "1217",
+                    "DistanceDroneInM": "11365"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "14859",
+                    "TimeTruckInS": "1091",
+                    "DistanceDroneInM": "10397"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "3384",
+                    "TimeTruckInS": "249",
+                    "DistanceDroneInM": "3262"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "7528",
+                    "TimeTruckInS": "558",
+                    "DistanceDroneInM": "6320"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "12208",
+                    "TimeTruckInS": "1334",
+                    "DistanceDroneInM": "9883"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "5876",
+                    "TimeTruckInS": "628",
+                    "DistanceDroneInM": "4355"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "32499",
+                    "TimeTruckInS": "2526",
+                    "DistanceDroneInM": "25909"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "9410",
+                    "TimeTruckInS": "897",
+                    "DistanceDroneInM": "6503"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "4133",
+                    "TimeTruckInS": "419",
+                    "DistanceDroneInM": "2956"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "37177",
+                    "TimeTruckInS": "2738",
+                    "DistanceDroneInM": "25481"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "27233",
+                    "TimeTruckInS": "1966",
+                    "DistanceDroneInM": "20667"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "28582",
+                    "TimeTruckInS": "2132",
+                    "DistanceDroneInM": "24329"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "18731",
+                    "TimeTruckInS": "1361",
+                    "DistanceDroneInM": "15666"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "12048",
+                    "TimeTruckInS": "985",
+                    "DistanceDroneInM": "8394"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "9099",
+                    "TimeTruckInS": "942",
+                    "DistanceDroneInM": "5935"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "15923",
+                    "TimeTruckInS": "1288",
+                    "DistanceDroneInM": "11358"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "24135",
+                    "TimeTruckInS": "1462",
+                    "DistanceDroneInM": "20893"
+                }
+            ]
+        },
+        {
+            "ID": "5",
+            "Name": "Customer 448",
+            "Lat": "-96.887075",
+            "Lon": "43.674233",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "3.43",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "21142",
+                    "TimeTruckInS": "1503",
+                    "DistanceDroneInM": "14588"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "20119",
+                    "TimeTruckInS": "1626",
+                    "DistanceDroneInM": "14208"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "9902",
+                    "TimeTruckInS": "880",
+                    "DistanceDroneInM": "7326"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "20281",
+                    "TimeTruckInS": "1599",
+                    "DistanceDroneInM": "14756"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "15877",
+                    "TimeTruckInS": "1217",
+                    "DistanceDroneInM": "11365"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "21544",
+                    "TimeTruckInS": "1737",
+                    "DistanceDroneInM": "16543"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "19029",
+                    "TimeTruckInS": "1439",
+                    "DistanceDroneInM": "14288"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "23173",
+                    "TimeTruckInS": "1747",
+                    "DistanceDroneInM": "17282"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "10421",
+                    "TimeTruckInS": "917",
+                    "DistanceDroneInM": "7782"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "10009",
+                    "TimeTruckInS": "821",
+                    "DistanceDroneInM": "8275"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "29564",
+                    "TimeTruckInS": "2467",
+                    "DistanceDroneInM": "22266"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "6471",
+                    "TimeTruckInS": "551",
+                    "DistanceDroneInM": "5098"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "14955",
+                    "TimeTruckInS": "1261",
+                    "DistanceDroneInM": "10585"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "40732",
+                    "TimeTruckInS": "3032",
+                    "DistanceDroneInM": "26134"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "30696",
+                    "TimeTruckInS": "2377",
+                    "DistanceDroneInM": "22039"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "32138",
+                    "TimeTruckInS": "2426",
+                    "DistanceDroneInM": "22862"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "22179",
+                    "TimeTruckInS": "1764",
+                    "DistanceDroneInM": "15946"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "18075",
+                    "TimeTruckInS": "1712",
+                    "DistanceDroneInM": "15216"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "7266",
+                    "TimeTruckInS": "652",
+                    "DistanceDroneInM": "5854"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "26291",
+                    "TimeTruckInS": "2227",
+                    "DistanceDroneInM": "19344"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "21142",
+                    "TimeTruckInS": "1503",
+                    "DistanceDroneInM": "14588"
+                }
+            ]
+        },
+        {
+            "ID": "6",
+            "Name": "Customer 398",
+            "Lat": "-96.91058",
+            "Lon": "43.822147",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "2.58",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "38787",
+                    "TimeTruckInS": "2269",
+                    "DistanceDroneInM": "29692"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "28256",
+                    "TimeTruckInS": "1905",
+                    "DistanceDroneInM": "19203"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "11642",
+                    "TimeTruckInS": "857",
+                    "DistanceDroneInM": "10140"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "28418",
+                    "TimeTruckInS": "1878",
+                    "DistanceDroneInM": "20191"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "14859",
+                    "TimeTruckInS": "1091",
+                    "DistanceDroneInM": "10397"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "21544",
+                    "TimeTruckInS": "1737",
+                    "DistanceDroneInM": "16543"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "11475",
+                    "TimeTruckInS": "842",
+                    "DistanceDroneInM": "8739"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "9263",
+                    "TimeTruckInS": "693",
+                    "DistanceDroneInM": "8586"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "11123",
+                    "TimeTruckInS": "820",
+                    "DistanceDroneInM": "9627"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "12207",
+                    "TimeTruckInS": "1311",
+                    "DistanceDroneInM": "9229"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "24736",
+                    "TimeTruckInS": "1932",
+                    "DistanceDroneInM": "19152"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "15111",
+                    "TimeTruckInS": "1505",
+                    "DistanceDroneInM": "12131"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "18760",
+                    "TimeTruckInS": "1482",
+                    "DistanceDroneInM": "13287"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "22977",
+                    "TimeTruckInS": "1757",
+                    "DistanceDroneInM": "15952"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "13024",
+                    "TimeTruckInS": "953",
+                    "DistanceDroneInM": "11196"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "18204",
+                    "TimeTruckInS": "1418",
+                    "DistanceDroneInM": "16168"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "10961",
+                    "TimeTruckInS": "805",
+                    "DistanceDroneInM": "8218"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "2801",
+                    "TimeTruckInS": "260",
+                    "DistanceDroneInM": "2007"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "14327",
+                    "TimeTruckInS": "1493",
+                    "DistanceDroneInM": "11379"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "4846",
+                    "TimeTruckInS": "582",
+                    "DistanceDroneInM": "3505"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "38787",
+                    "TimeTruckInS": "2269",
+                    "DistanceDroneInM": "29692"
+                }
+            ]
+        },
+        {
+            "ID": "7",
+            "Name": "Customer 694",
+            "Lat": "-96.811184",
+            "Lon": "43.790459",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "2.88",
+            "DroneServiceAllowed": false,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "27287",
+                    "TimeTruckInS": "1683",
+                    "DistanceDroneInM": "24091"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "32741",
+                    "TimeTruckInS": "2257",
+                    "DistanceDroneInM": "23162"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "16128",
+                    "TimeTruckInS": "1168",
+                    "DistanceDroneInM": "11609"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "32903",
+                    "TimeTruckInS": "2230",
+                    "DistanceDroneInM": "24079"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "3384",
+                    "TimeTruckInS": "249",
+                    "DistanceDroneInM": "3262"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "19029",
+                    "TimeTruckInS": "1439",
+                    "DistanceDroneInM": "14288"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "11475",
+                    "TimeTruckInS": "842",
+                    "DistanceDroneInM": "8739"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "4144",
+                    "TimeTruckInS": "309",
+                    "DistanceDroneInM": "3075"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "15608",
+                    "TimeTruckInS": "1130",
+                    "DistanceDroneInM": "11322"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "9028",
+                    "TimeTruckInS": "849",
+                    "DistanceDroneInM": "6408"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "29221",
+                    "TimeTruckInS": "2285",
+                    "DistanceDroneInM": "26191"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "12562",
+                    "TimeTruckInS": "1119",
+                    "DistanceDroneInM": "9242"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "7285",
+                    "TimeTruckInS": "640",
+                    "DistanceDroneInM": "5888"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "33898",
+                    "TimeTruckInS": "2496",
+                    "DistanceDroneInM": "24540"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "23850",
+                    "TimeTruckInS": "1717",
+                    "DistanceDroneInM": "19725"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "25304",
+                    "TimeTruckInS": "1891",
+                    "DistanceDroneInM": "24049"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "15452",
+                    "TimeTruckInS": "1119",
+                    "DistanceDroneInM": "15435"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "8769",
+                    "TimeTruckInS": "743",
+                    "DistanceDroneInM": "6806"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "12482",
+                    "TimeTruckInS": "1191",
+                    "DistanceDroneInM": "8556"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "12540",
+                    "TimeTruckInS": "1039",
+                    "DistanceDroneInM": "8823"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "27287",
+                    "TimeTruckInS": "1683",
+                    "DistanceDroneInM": "24091"
+                }
+            ]
+        },
+        {
+            "ID": "8",
+            "Name": "Customer 613",
+            "Lat": "-96.804031",
+            "Lon": "43.817649",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "2.56",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "29954",
+                    "TimeTruckInS": "1628",
+                    "DistanceDroneInM": "27013"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "36870",
+                    "TimeTruckInS": "2520",
+                    "DistanceDroneInM": "25246"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "20256",
+                    "TimeTruckInS": "1472",
+                    "DistanceDroneInM": "13945"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "37032",
+                    "TimeTruckInS": "2493",
+                    "DistanceDroneInM": "26193"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "7528",
+                    "TimeTruckInS": "558",
+                    "DistanceDroneInM": "6320"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "23173",
+                    "TimeTruckInS": "1747",
+                    "DistanceDroneInM": "17282"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "9263",
+                    "TimeTruckInS": "693",
+                    "DistanceDroneInM": "8586"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "4144",
+                    "TimeTruckInS": "309",
+                    "DistanceDroneInM": "3075"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "19736",
+                    "TimeTruckInS": "1435",
+                    "DistanceDroneInM": "13592"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "13172",
+                    "TimeTruckInS": "1158",
+                    "DistanceDroneInM": "9206"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "33350",
+                    "TimeTruckInS": "2547",
+                    "DistanceDroneInM": "27260"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "16706",
+                    "TimeTruckInS": "1427",
+                    "DistanceDroneInM": "12201"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "11373",
+                    "TimeTruckInS": "850",
+                    "DistanceDroneInM": "8748"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "31590",
+                    "TimeTruckInS": "2372",
+                    "DistanceDroneInM": "24495"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "21637",
+                    "TimeTruckInS": "1568",
+                    "DistanceDroneInM": "19772"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "26818",
+                    "TimeTruckInS": "2033",
+                    "DistanceDroneInM": "24647"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "19575",
+                    "TimeTruckInS": "1420",
+                    "DistanceDroneInM": "16287"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "8230",
+                    "TimeTruckInS": "645",
+                    "DistanceDroneInM": "7017"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "16627",
+                    "TimeTruckInS": "1500",
+                    "DistanceDroneInM": "11484"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "10327",
+                    "TimeTruckInS": "890",
+                    "DistanceDroneInM": "7442"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "29954",
+                    "TimeTruckInS": "1628",
+                    "DistanceDroneInM": "27013"
+                }
+            ]
+        },
+        {
+            "ID": "9",
+            "Name": "Customer 332",
+            "Lat": "-96.930662",
+            "Lon": "43.736734",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "4.05",
+            "DroneServiceAllowed": false,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "30158",
+                    "TimeTruckInS": "2057",
+                    "DistanceDroneInM": "22202"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "17139",
+                    "TimeTruckInS": "1244",
+                    "DistanceDroneInM": "11864"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "519",
+                    "TimeTruckInS": "37",
+                    "DistanceDroneInM": "519"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "17301",
+                    "TimeTruckInS": "1217",
+                    "DistanceDroneInM": "12767"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "12208",
+                    "TimeTruckInS": "1334",
+                    "DistanceDroneInM": "9883"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "10421",
+                    "TimeTruckInS": "917",
+                    "DistanceDroneInM": "7782"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "11123",
+                    "TimeTruckInS": "820",
+                    "DistanceDroneInM": "9627"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "15608",
+                    "TimeTruckInS": "1130",
+                    "DistanceDroneInM": "11322"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "19736",
+                    "TimeTruckInS": "1435",
+                    "DistanceDroneInM": "13592"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "7552",
+                    "TimeTruckInS": "810",
+                    "DistanceDroneInM": "5568"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "25526",
+                    "TimeTruckInS": "2012",
+                    "DistanceDroneInM": "16678"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "7238",
+                    "TimeTruckInS": "770",
+                    "DistanceDroneInM": "5567"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "12504",
+                    "TimeTruckInS": "1482",
+                    "DistanceDroneInM": "11227"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "30204",
+                    "TimeTruckInS": "2224",
+                    "DistanceDroneInM": "18748"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "20274",
+                    "TimeTruckInS": "1460",
+                    "DistanceDroneInM": "14416"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "21609",
+                    "TimeTruckInS": "1618",
+                    "DistanceDroneInM": "16126"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "11757",
+                    "TimeTruckInS": "847",
+                    "DistanceDroneInM": "8348"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "11502",
+                    "TimeTruckInS": "947",
+                    "DistanceDroneInM": "8870"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "6449",
+                    "TimeTruckInS": "759",
+                    "DistanceDroneInM": "5323"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "15870",
+                    "TimeTruckInS": "1309",
+                    "DistanceDroneInM": "12904"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "30158",
+                    "TimeTruckInS": "2057",
+                    "DistanceDroneInM": "22202"
+                }
+            ]
+        },
+        {
+            "ID": "10",
+            "Name": "Customer 497",
+            "Lat": "-96.862893",
+            "Lon": "43.746613",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "1.55",
+            "DroneServiceAllowed": false,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "28499",
+                    "TimeTruckInS": "2001",
+                    "DistanceDroneInM": "20469"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "23700",
+                    "TimeTruckInS": "1754",
+                    "DistanceDroneInM": "17297"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "7084",
+                    "TimeTruckInS": "777",
+                    "DistanceDroneInM": "5699"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "23862",
+                    "TimeTruckInS": "1727",
+                    "DistanceDroneInM": "18163"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "5876",
+                    "TimeTruckInS": "628",
+                    "DistanceDroneInM": "4355"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "10009",
+                    "TimeTruckInS": "821",
+                    "DistanceDroneInM": "8275"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "12207",
+                    "TimeTruckInS": "1311",
+                    "DistanceDroneInM": "9229"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "9028",
+                    "TimeTruckInS": "849",
+                    "DistanceDroneInM": "6408"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "13172",
+                    "TimeTruckInS": "1158",
+                    "DistanceDroneInM": "9206"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "7552",
+                    "TimeTruckInS": "810",
+                    "DistanceDroneInM": "5568"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "29850",
+                    "TimeTruckInS": "2585",
+                    "DistanceDroneInM": "21946"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "4245",
+                    "TimeTruckInS": "355",
+                    "DistanceDroneInM": "3229"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "6555",
+                    "TimeTruckInS": "787",
+                    "DistanceDroneInM": "5818"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "34528",
+                    "TimeTruckInS": "2796",
+                    "DistanceDroneInM": "22558"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "24598",
+                    "TimeTruckInS": "2033",
+                    "DistanceDroneInM": "17851"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "25933",
+                    "TimeTruckInS": "2191",
+                    "DistanceDroneInM": "20791"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "16082",
+                    "TimeTruckInS": "1419",
+                    "DistanceDroneInM": "12290"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "9406",
+                    "TimeTruckInS": "1052",
+                    "DistanceDroneInM": "7514"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "3461",
+                    "TimeTruckInS": "342",
+                    "DistanceDroneInM": "2443"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "15078",
+                    "TimeTruckInS": "1732",
+                    "DistanceDroneInM": "11457"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "28499",
+                    "TimeTruckInS": "2001",
+                    "DistanceDroneInM": "20469"
+                }
+            ]
+        },
+        {
+            "ID": "11",
+            "Name": "Customer 13",
+            "Lat": "-97.13439",
+            "Lon": "43.763596",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "2.43",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "47071",
+                    "TimeTruckInS": "3232",
+                    "DistanceDroneInM": "36217"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "13895",
+                    "TimeTruckInS": "1182",
+                    "DistanceDroneInM": "10154"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "26065",
+                    "TimeTruckInS": "2048",
+                    "DistanceDroneInM": "16774"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "14057",
+                    "TimeTruckInS": "1155",
+                    "DistanceDroneInM": "10478"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "32499",
+                    "TimeTruckInS": "2526",
+                    "DistanceDroneInM": "25909"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "29564",
+                    "TimeTruckInS": "2467",
+                    "DistanceDroneInM": "22266"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "24736",
+                    "TimeTruckInS": "1932",
+                    "DistanceDroneInM": "19152"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "29221",
+                    "TimeTruckInS": "2285",
+                    "DistanceDroneInM": "26191"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "33350",
+                    "TimeTruckInS": "2547",
+                    "DistanceDroneInM": "27260"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "25526",
+                    "TimeTruckInS": "2012",
+                    "DistanceDroneInM": "16678"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "29850",
+                    "TimeTruckInS": "2585",
+                    "DistanceDroneInM": "21946"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "29607",
+                    "TimeTruckInS": "2325",
+                    "DistanceDroneInM": "22154"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "36401",
+                    "TimeTruckInS": "2917",
+                    "DistanceDroneInM": "27759"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "11955",
+                    "TimeTruckInS": "1357",
+                    "DistanceDroneInM": "9669"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "14952",
+                    "TimeTruckInS": "1193",
+                    "DistanceDroneInM": "10448"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "6510",
+                    "TimeTruckInS": "705",
+                    "DistanceDroneInM": "4707"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "13769",
+                    "TimeTruckInS": "1166",
+                    "DistanceDroneInM": "10999"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "25115",
+                    "TimeTruckInS": "2101",
+                    "DistanceDroneInM": "20308"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "30401",
+                    "TimeTruckInS": "2426",
+                    "DistanceDroneInM": "21991"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "29485",
+                    "TimeTruckInS": "2402",
+                    "DistanceDroneInM": "22074"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "47071",
+                    "TimeTruckInS": "3232",
+                    "DistanceDroneInM": "36217"
+                }
+            ]
+        },
+        {
+            "ID": "12",
+            "Name": "Customer 466",
+            "Lat": "-96.866761",
+            "Lon": "43.717685",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "3.7",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "24961",
+                    "TimeTruckInS": "1731",
+                    "DistanceDroneInM": "17675"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "20162",
+                    "TimeTruckInS": "1484",
+                    "DistanceDroneInM": "16074"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "6719",
+                    "TimeTruckInS": "732",
+                    "DistanceDroneInM": "5396"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "20323",
+                    "TimeTruckInS": "1457",
+                    "DistanceDroneInM": "16844"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "9410",
+                    "TimeTruckInS": "897",
+                    "DistanceDroneInM": "6503"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "6471",
+                    "TimeTruckInS": "551",
+                    "DistanceDroneInM": "5098"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "15111",
+                    "TimeTruckInS": "1505",
+                    "DistanceDroneInM": "12131"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "12562",
+                    "TimeTruckInS": "1119",
+                    "DistanceDroneInM": "9242"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "16706",
+                    "TimeTruckInS": "1427",
+                    "DistanceDroneInM": "12201"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "7238",
+                    "TimeTruckInS": "770",
+                    "DistanceDroneInM": "5567"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "4245",
+                    "TimeTruckInS": "355",
+                    "DistanceDroneInM": "3229"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "29607",
+                    "TimeTruckInS": "2325",
+                    "DistanceDroneInM": "22154"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "8488",
+                    "TimeTruckInS": "941",
+                    "DistanceDroneInM": "6540"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "40775",
+                    "TimeTruckInS": "2890",
+                    "DistanceDroneInM": "24078"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "27503",
+                    "TimeTruckInS": "2226",
+                    "DistanceDroneInM": "19557"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "32180",
+                    "TimeTruckInS": "2285",
+                    "DistanceDroneInM": "21680"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "18986",
+                    "TimeTruckInS": "1613",
+                    "DistanceDroneInM": "13635"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "12311",
+                    "TimeTruckInS": "1246",
+                    "DistanceDroneInM": "10564"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "1501",
+                    "TimeTruckInS": "186",
+                    "DistanceDroneInM": "790"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "19190",
+                    "TimeTruckInS": "1998",
+                    "DistanceDroneInM": "14601"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "24961",
+                    "TimeTruckInS": "1731",
+                    "DistanceDroneInM": "17675"
+                }
+            ]
+        },
+        {
+            "ID": "13",
+            "Name": "Customer 674",
+            "Lat": "-96.791344",
+            "Lon": "43.739452",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "0.24",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "24816",
+                    "TimeTruckInS": "1544",
+                    "DistanceDroneInM": "18265"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "28646",
+                    "TimeTruckInS": "2194",
+                    "DistanceDroneInM": "22540"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "18428",
+                    "TimeTruckInS": "1448",
+                    "DistanceDroneInM": "11259"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "28807",
+                    "TimeTruckInS": "2167",
+                    "DistanceDroneInM": "23337"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "4133",
+                    "TimeTruckInS": "419",
+                    "DistanceDroneInM": "2956"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "14955",
+                    "TimeTruckInS": "1261",
+                    "DistanceDroneInM": "10585"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "18760",
+                    "TimeTruckInS": "1482",
+                    "DistanceDroneInM": "13287"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "7285",
+                    "TimeTruckInS": "640",
+                    "DistanceDroneInM": "5888"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "11833",
+                    "TimeTruckInS": "902",
+                    "DistanceDroneInM": "8748"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "12504",
+                    "TimeTruckInS": "1482",
+                    "DistanceDroneInM": "11227"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "6555",
+                    "TimeTruckInS": "787",
+                    "DistanceDroneInM": "5818"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "36401",
+                    "TimeTruckInS": "2917",
+                    "DistanceDroneInM": "27759"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "8488",
+                    "TimeTruckInS": "941",
+                    "DistanceDroneInM": "6540"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "41078",
+                    "TimeTruckInS": "3129",
+                    "DistanceDroneInM": "28030"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "31135",
+                    "TimeTruckInS": "2357",
+                    "DistanceDroneInM": "23245"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "32484",
+                    "TimeTruckInS": "2523",
+                    "DistanceDroneInM": "26547"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "22632",
+                    "TimeTruckInS": "1751",
+                    "DistanceDroneInM": "17961"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "15949",
+                    "TimeTruckInS": "1376",
+                    "DistanceDroneInM": "11294"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "8413",
+                    "TimeTruckInS": "1014",
+                    "DistanceDroneInM": "6284"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "19825",
+                    "TimeTruckInS": "1679",
+                    "DistanceDroneInM": "14308"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "24816",
+                    "TimeTruckInS": "1544",
+                    "DistanceDroneInM": "18265"
+                }
+            ]
+        },
+        {
+            "ID": "14",
+            "Name": "Customer 49",
+            "Lat": "-97.105657",
+            "Lon": "43.848097",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "4.55",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "58239",
+                    "TimeTruckInS": "3797",
+                    "DistanceDroneInM": "40721"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "25063",
+                    "TimeTruckInS": "1747",
+                    "DistanceDroneInM": "18051"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "30723",
+                    "TimeTruckInS": "2261",
+                    "DistanceDroneInM": "19090"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "25225",
+                    "TimeTruckInS": "1720",
+                    "DistanceDroneInM": "18706"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "37177",
+                    "TimeTruckInS": "2738",
+                    "DistanceDroneInM": "25481"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "40732",
+                    "TimeTruckInS": "3032",
+                    "DistanceDroneInM": "26134"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "22977",
+                    "TimeTruckInS": "1757",
+                    "DistanceDroneInM": "15952"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "33898",
+                    "TimeTruckInS": "2496",
+                    "DistanceDroneInM": "24540"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "31590",
+                    "TimeTruckInS": "2372",
+                    "DistanceDroneInM": "24495"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "30204",
+                    "TimeTruckInS": "2224",
+                    "DistanceDroneInM": "18748"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "34528",
+                    "TimeTruckInS": "2796",
+                    "DistanceDroneInM": "22558"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "11955",
+                    "TimeTruckInS": "1357",
+                    "DistanceDroneInM": "9669"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "40775",
+                    "TimeTruckInS": "2890",
+                    "DistanceDroneInM": "24078"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "41078",
+                    "TimeTruckInS": "3129",
+                    "DistanceDroneInM": "28030"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "9939",
+                    "TimeTruckInS": "823",
+                    "DistanceDroneInM": "4827"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "8603",
+                    "TimeTruckInS": "880",
+                    "DistanceDroneInM": "5137"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "18446",
+                    "TimeTruckInS": "1377",
+                    "DistanceDroneInM": "10445"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "25128",
+                    "TimeTruckInS": "1939",
+                    "DistanceDroneInM": "17764"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "36648",
+                    "TimeTruckInS": "2978",
+                    "DistanceDroneInM": "23616"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "24472",
+                    "TimeTruckInS": "2032",
+                    "DistanceDroneInM": "17641"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "58239",
+                    "TimeTruckInS": "3797",
+                    "DistanceDroneInM": "40721"
+                }
+            ]
+        },
+        {
+            "ID": "15",
+            "Name": "Customer 141",
+            "Lat": "-97.048759",
+            "Lon": "43.834271",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "2.36",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "51162",
+                    "TimeTruckInS": "3144",
+                    "DistanceDroneInM": "36588"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "18473",
+                    "TimeTruckInS": "1165",
+                    "DistanceDroneInM": "16208"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "20794",
+                    "TimeTruckInS": "1497",
+                    "DistanceDroneInM": "14806"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "18634",
+                    "TimeTruckInS": "1138",
+                    "DistanceDroneInM": "17029"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "27233",
+                    "TimeTruckInS": "1966",
+                    "DistanceDroneInM": "20667"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "30696",
+                    "TimeTruckInS": "2377",
+                    "DistanceDroneInM": "22039"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "13024",
+                    "TimeTruckInS": "953",
+                    "DistanceDroneInM": "11196"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "23850",
+                    "TimeTruckInS": "1717",
+                    "DistanceDroneInM": "19725"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "21637",
+                    "TimeTruckInS": "1568",
+                    "DistanceDroneInM": "19772"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "20274",
+                    "TimeTruckInS": "1460",
+                    "DistanceDroneInM": "14416"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "24598",
+                    "TimeTruckInS": "2033",
+                    "DistanceDroneInM": "17851"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "14952",
+                    "TimeTruckInS": "1193",
+                    "DistanceDroneInM": "10448"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "27503",
+                    "TimeTruckInS": "2226",
+                    "DistanceDroneInM": "19557"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "31135",
+                    "TimeTruckInS": "2357",
+                    "DistanceDroneInM": "23245"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "9939",
+                    "TimeTruckInS": "823",
+                    "DistanceDroneInM": "4827"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "8420",
+                    "TimeTruckInS": "679",
+                    "DistanceDroneInM": "6069"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "10457",
+                    "TimeTruckInS": "753",
+                    "DistanceDroneInM": "6095"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "15175",
+                    "TimeTruckInS": "1135",
+                    "DistanceDroneInM": "12965"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "26718",
+                    "TimeTruckInS": "2214",
+                    "DistanceDroneInM": "19048"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "14533",
+                    "TimeTruckInS": "1210",
+                    "DistanceDroneInM": "13160"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "51162",
+                    "TimeTruckInS": "3144",
+                    "DistanceDroneInM": "36588"
+                }
+            ]
+        },
+        {
+            "ID": "16",
+            "Name": "Customer 40",
+            "Lat": "-97.109581",
+            "Lon": "43.801954",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "1.7",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "49645",
+                    "TimeTruckInS": "3191",
+                    "DistanceDroneInM": "37316"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "16469",
+                    "TimeTruckInS": "1141",
+                    "DistanceDroneInM": "13149"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "22129",
+                    "TimeTruckInS": "1655",
+                    "DistanceDroneInM": "16361"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "16630",
+                    "TimeTruckInS": "1114",
+                    "DistanceDroneInM": "13734"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "28582",
+                    "TimeTruckInS": "2132",
+                    "DistanceDroneInM": "24329"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "32138",
+                    "TimeTruckInS": "2426",
+                    "DistanceDroneInM": "22862"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "18204",
+                    "TimeTruckInS": "1418",
+                    "DistanceDroneInM": "16168"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "25304",
+                    "TimeTruckInS": "1891",
+                    "DistanceDroneInM": "24049"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "26818",
+                    "TimeTruckInS": "2033",
+                    "DistanceDroneInM": "24647"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "21609",
+                    "TimeTruckInS": "1618",
+                    "DistanceDroneInM": "16126"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "25933",
+                    "TimeTruckInS": "2191",
+                    "DistanceDroneInM": "20791"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "6510",
+                    "TimeTruckInS": "705",
+                    "DistanceDroneInM": "4707"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "32180",
+                    "TimeTruckInS": "2285",
+                    "DistanceDroneInM": "21680"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "32484",
+                    "TimeTruckInS": "2523",
+                    "DistanceDroneInM": "26547"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "8603",
+                    "TimeTruckInS": "880",
+                    "DistanceDroneInM": "5137"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "8420",
+                    "TimeTruckInS": "679",
+                    "DistanceDroneInM": "6069"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "9852",
+                    "TimeTruckInS": "772",
+                    "DistanceDroneInM": "8674"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "20356",
+                    "TimeTruckInS": "1600",
+                    "DistanceDroneInM": "17635"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "28053",
+                    "TimeTruckInS": "2372",
+                    "DistanceDroneInM": "21356"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "22953",
+                    "TimeTruckInS": "1889",
+                    "DistanceDroneInM": "18688"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "49645",
+                    "TimeTruckInS": "3191",
+                    "DistanceDroneInM": "37316"
+                }
+            ]
+        },
+        {
+            "ID": "17",
+            "Name": "Customer 188",
+            "Lat": "-97.002948",
+            "Lon": "43.790586",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "1.41",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "42634",
+                    "TimeTruckInS": "2795",
+                    "DistanceDroneInM": "30495"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "17289",
+                    "TimeTruckInS": "1138",
+                    "DistanceDroneInM": "12282"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "12277",
+                    "TimeTruckInS": "884",
+                    "DistanceDroneInM": "8724"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "17451",
+                    "TimeTruckInS": "1111",
+                    "DistanceDroneInM": "13235"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "18731",
+                    "TimeTruckInS": "1361",
+                    "DistanceDroneInM": "15666"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "22179",
+                    "TimeTruckInS": "1764",
+                    "DistanceDroneInM": "15946"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "10961",
+                    "TimeTruckInS": "805",
+                    "DistanceDroneInM": "8218"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "15452",
+                    "TimeTruckInS": "1119",
+                    "DistanceDroneInM": "15435"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "19575",
+                    "TimeTruckInS": "1420",
+                    "DistanceDroneInM": "16287"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "11757",
+                    "TimeTruckInS": "847",
+                    "DistanceDroneInM": "8348"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "16082",
+                    "TimeTruckInS": "1419",
+                    "DistanceDroneInM": "12290"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "13769",
+                    "TimeTruckInS": "1166",
+                    "DistanceDroneInM": "10999"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "18986",
+                    "TimeTruckInS": "1613",
+                    "DistanceDroneInM": "13635"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "22632",
+                    "TimeTruckInS": "1751",
+                    "DistanceDroneInM": "17961"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "18446",
+                    "TimeTruckInS": "1377",
+                    "DistanceDroneInM": "10445"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "10457",
+                    "TimeTruckInS": "753",
+                    "DistanceDroneInM": "6095"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "9852",
+                    "TimeTruckInS": "772",
+                    "DistanceDroneInM": "8674"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "11346",
+                    "TimeTruckInS": "935",
+                    "DistanceDroneInM": "9311"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "18202",
+                    "TimeTruckInS": "1601",
+                    "DistanceDroneInM": "13186"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "15675",
+                    "TimeTruckInS": "1292",
+                    "DistanceDroneInM": "11370"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "42634",
+                    "TimeTruckInS": "2795",
+                    "DistanceDroneInM": "30495"
+                }
+            ]
+        },
+        {
+            "ID": "18",
+            "Name": "Customer 413",
+            "Lat": "-96.890785",
+            "Lon": "43.811152",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "4.54",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "37754",
+                    "TimeTruckInS": "2221",
+                    "DistanceDroneInM": "27964"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "28635",
+                    "TimeTruckInS": "2073",
+                    "DistanceDroneInM": "19379"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "12022",
+                    "TimeTruckInS": "984",
+                    "DistanceDroneInM": "9357"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "28797",
+                    "TimeTruckInS": "2046",
+                    "DistanceDroneInM": "20360"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "12048",
+                    "TimeTruckInS": "985",
+                    "DistanceDroneInM": "8394"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "18075",
+                    "TimeTruckInS": "1712",
+                    "DistanceDroneInM": "15216"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "2801",
+                    "TimeTruckInS": "260",
+                    "DistanceDroneInM": "2007"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "8769",
+                    "TimeTruckInS": "743",
+                    "DistanceDroneInM": "6806"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "8230",
+                    "TimeTruckInS": "645",
+                    "DistanceDroneInM": "7017"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "11502",
+                    "TimeTruckInS": "947",
+                    "DistanceDroneInM": "8870"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "9406",
+                    "TimeTruckInS": "1052",
+                    "DistanceDroneInM": "7514"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "25115",
+                    "TimeTruckInS": "2101",
+                    "DistanceDroneInM": "20308"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "12311",
+                    "TimeTruckInS": "1246",
+                    "DistanceDroneInM": "10564"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "15949",
+                    "TimeTruckInS": "1376",
+                    "DistanceDroneInM": "11294"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "25128",
+                    "TimeTruckInS": "1939",
+                    "DistanceDroneInM": "17764"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "15175",
+                    "TimeTruckInS": "1135",
+                    "DistanceDroneInM": "12965"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "20356",
+                    "TimeTruckInS": "1600",
+                    "DistanceDroneInM": "17635"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "11346",
+                    "TimeTruckInS": "935",
+                    "DistanceDroneInM": "9311"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "11526",
+                    "TimeTruckInS": "1233",
+                    "DistanceDroneInM": "9789"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "6879",
+                    "TimeTruckInS": "752",
+                    "DistanceDroneInM": "4147"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "37754",
+                    "TimeTruckInS": "2221",
+                    "DistanceDroneInM": "27964"
+                }
+            ]
+        },
+        {
+            "ID": "19",
+            "Name": "Customer 488",
+            "Lat": "-96.866678",
+            "Lon": "43.724796",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "26.85",
+            "DroneServiceAllowed": false,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "25755",
+                    "TimeTruckInS": "1831",
+                    "DistanceDroneInM": "18379"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "20956",
+                    "TimeTruckInS": "1585",
+                    "DistanceDroneInM": "16257"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "5981",
+                    "TimeTruckInS": "726",
+                    "DistanceDroneInM": "5224"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "21118",
+                    "TimeTruckInS": "1558",
+                    "DistanceDroneInM": "17054"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "9099",
+                    "TimeTruckInS": "942",
+                    "DistanceDroneInM": "5935"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "7266",
+                    "TimeTruckInS": "652",
+                    "DistanceDroneInM": "5854"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "14327",
+                    "TimeTruckInS": "1493",
+                    "DistanceDroneInM": "11379"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "12482",
+                    "TimeTruckInS": "1191",
+                    "DistanceDroneInM": "8556"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "16627",
+                    "TimeTruckInS": "1500",
+                    "DistanceDroneInM": "11484"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "6449",
+                    "TimeTruckInS": "759",
+                    "DistanceDroneInM": "5323"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "3461",
+                    "TimeTruckInS": "342",
+                    "DistanceDroneInM": "2443"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "30401",
+                    "TimeTruckInS": "2426",
+                    "DistanceDroneInM": "21991"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "1501",
+                    "TimeTruckInS": "186",
+                    "DistanceDroneInM": "790"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "8413",
+                    "TimeTruckInS": "1014",
+                    "DistanceDroneInM": "6284"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "36648",
+                    "TimeTruckInS": "2978",
+                    "DistanceDroneInM": "23616"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "26718",
+                    "TimeTruckInS": "2214",
+                    "DistanceDroneInM": "19048"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "28053",
+                    "TimeTruckInS": "2372",
+                    "DistanceDroneInM": "21356"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "18202",
+                    "TimeTruckInS": "1601",
+                    "DistanceDroneInM": "13186"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "11526",
+                    "TimeTruckInS": "1233",
+                    "DistanceDroneInM": "9789"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "18406",
+                    "TimeTruckInS": "1985",
+                    "DistanceDroneInM": "13816"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "25755",
+                    "TimeTruckInS": "1831",
+                    "DistanceDroneInM": "18379"
+                }
+            ]
+        },
+        {
+            "ID": "20",
+            "Name": "Customer 404",
+            "Lat": "-96.886272",
+            "Lon": "43.848332",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "0.7",
+            "DroneServiceAllowed": true,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "39852",
+                    "TimeTruckInS": "2466",
+                    "DistanceDroneInM": "31745"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "33005",
+                    "TimeTruckInS": "2375",
+                    "DistanceDroneInM": "22694"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "16389",
+                    "TimeTruckInS": "1347",
+                    "DistanceDroneInM": "13405"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "33167",
+                    "TimeTruckInS": "2348",
+                    "DistanceDroneInM": "23682"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "15923",
+                    "TimeTruckInS": "1288",
+                    "DistanceDroneInM": "11358"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "26291",
+                    "TimeTruckInS": "2227",
+                    "DistanceDroneInM": "19344"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "4846",
+                    "TimeTruckInS": "582",
+                    "DistanceDroneInM": "3505"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "12540",
+                    "TimeTruckInS": "1039",
+                    "DistanceDroneInM": "8823"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "10327",
+                    "TimeTruckInS": "890",
+                    "DistanceDroneInM": "7442"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "15870",
+                    "TimeTruckInS": "1309",
+                    "DistanceDroneInM": "12904"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "15078",
+                    "TimeTruckInS": "1732",
+                    "DistanceDroneInM": "11457"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "29485",
+                    "TimeTruckInS": "2402",
+                    "DistanceDroneInM": "22074"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "19190",
+                    "TimeTruckInS": "1998",
+                    "DistanceDroneInM": "14601"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "19825",
+                    "TimeTruckInS": "1679",
+                    "DistanceDroneInM": "14308"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "24472",
+                    "TimeTruckInS": "2032",
+                    "DistanceDroneInM": "17641"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "14533",
+                    "TimeTruckInS": "1210",
+                    "DistanceDroneInM": "13160"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "22953",
+                    "TimeTruckInS": "1889",
+                    "DistanceDroneInM": "18688"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "15675",
+                    "TimeTruckInS": "1292",
+                    "DistanceDroneInM": "11370"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "6879",
+                    "TimeTruckInS": "752",
+                    "DistanceDroneInM": "4147"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "18406",
+                    "TimeTruckInS": "1985",
+                    "DistanceDroneInM": "13816"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "39852",
+                    "TimeTruckInS": "2466",
+                    "DistanceDroneInM": "31745"
+                }
+            ]
+        },
+        {
+            "ID": "21",
+            "Name": "UPS Customer Center",
+            "Lat": "-96.767153",
+            "Lon": "43.575996",
+            "ServiceDroneInS": 90,
+            "ServiceTruckInS": 120,
+            "PackageWeightInKG": "0",
+            "DroneServiceAllowed": false,
+            "Edges": [
+                {
+                    "ToNode": "0",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                },
+                {
+                    "ToNode": "1",
+                    "DistanceTruckInM": "34425",
+                    "TimeTruckInS": "2198",
+                    "DistanceDroneInM": "26899"
+                },
+                {
+                    "ToNode": "2",
+                    "DistanceTruckInM": "29664",
+                    "TimeTruckInS": "2021",
+                    "DistanceDroneInM": "21790"
+                },
+                {
+                    "ToNode": "3",
+                    "DistanceTruckInM": "33039",
+                    "TimeTruckInS": "2078",
+                    "DistanceDroneInM": "27102"
+                },
+                {
+                    "ToNode": "4",
+                    "DistanceTruckInM": "24393",
+                    "TimeTruckInS": "1456",
+                    "DistanceDroneInM": "20893"
+                },
+                {
+                    "ToNode": "5",
+                    "DistanceTruckInM": "21449",
+                    "TimeTruckInS": "1506",
+                    "DistanceDroneInM": "14588"
+                },
+                {
+                    "ToNode": "6",
+                    "DistanceTruckInM": "39153",
+                    "TimeTruckInS": "2273",
+                    "DistanceDroneInM": "29692"
+                },
+                {
+                    "ToNode": "7",
+                    "DistanceTruckInM": "27545",
+                    "TimeTruckInS": "1678",
+                    "DistanceDroneInM": "24091"
+                },
+                {
+                    "ToNode": "8",
+                    "DistanceTruckInM": "30319",
+                    "TimeTruckInS": "1632",
+                    "DistanceDroneInM": "27013"
+                },
+                {
+                    "ToNode": "9",
+                    "DistanceTruckInM": "30183",
+                    "TimeTruckInS": "2059",
+                    "DistanceDroneInM": "22202"
+                },
+                {
+                    "ToNode": "10",
+                    "DistanceTruckInM": "28806",
+                    "TimeTruckInS": "2003",
+                    "DistanceDroneInM": "20469"
+                },
+                {
+                    "ToNode": "11",
+                    "DistanceTruckInM": "47096",
+                    "TimeTruckInS": "3233",
+                    "DistanceDroneInM": "36217"
+                },
+                {
+                    "ToNode": "12",
+                    "DistanceTruckInM": "25268",
+                    "TimeTruckInS": "1733",
+                    "DistanceDroneInM": "17675"
+                },
+                {
+                    "ToNode": "13",
+                    "DistanceTruckInM": "25075",
+                    "TimeTruckInS": "1538",
+                    "DistanceDroneInM": "18265"
+                },
+                {
+                    "ToNode": "14",
+                    "DistanceTruckInM": "58264",
+                    "TimeTruckInS": "3798",
+                    "DistanceDroneInM": "40721"
+                },
+                {
+                    "ToNode": "15",
+                    "DistanceTruckInM": "51527",
+                    "TimeTruckInS": "3149",
+                    "DistanceDroneInM": "36588"
+                },
+                {
+                    "ToNode": "16",
+                    "DistanceTruckInM": "49670",
+                    "TimeTruckInS": "3193",
+                    "DistanceDroneInM": "37316"
+                },
+                {
+                    "ToNode": "17",
+                    "DistanceTruckInM": "42892",
+                    "TimeTruckInS": "2789",
+                    "DistanceDroneInM": "30495"
+                },
+                {
+                    "ToNode": "18",
+                    "DistanceTruckInM": "38120",
+                    "TimeTruckInS": "2226",
+                    "DistanceDroneInM": "27964"
+                },
+                {
+                    "ToNode": "19",
+                    "DistanceTruckInM": "26062",
+                    "TimeTruckInS": "1834",
+                    "DistanceDroneInM": "18379"
+                },
+                {
+                    "ToNode": "20",
+                    "DistanceTruckInM": "40217",
+                    "TimeTruckInS": "2470",
+                    "DistanceDroneInM": "31745"
+                },
+                {
+                    "ToNode": "21",
+                    "DistanceTruckInM": "0",
+                    "TimeTruckInS": "0",
+                    "DistanceDroneInM": "0"
+                }
+            ]
+        }
+    ]
+}
